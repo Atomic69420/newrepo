@@ -2,4 +2,4 @@ console.log('Hello World!')
 function script(params) {
 console.log(params)
 }
-script("Hello World!")
+script("Hello Worldd! 2")
