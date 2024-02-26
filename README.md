@@ -1,2 +1,2 @@
 # newrepo
-coding a s
+coding a sc
