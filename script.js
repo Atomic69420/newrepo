@@ -1,1 +1,1 @@
-consol
+console.lo
