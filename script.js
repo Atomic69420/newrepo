@@ -1,4 +1,4 @@
 console.log('Hello World')
 function script(params) {
-console.log(p)
+console.log(para)
 }
