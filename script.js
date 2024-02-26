@@ -1,5 +1,5 @@
-console.log('Hello World')
+console.log('Hello World!')
 function script(params) {
 console.log(params)
 }
-script("Hello Worl")
+script("Hello World!")
