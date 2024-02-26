@@ -1,2 +1,2 @@
 console.log('Hello World')
-function scr
+function script
