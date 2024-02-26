@@ -1,2 +1,4 @@
 console.log('Hello World')
-function script() {
+function script(pa) {
+
+}
