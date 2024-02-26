@@ -1,2 +1,2 @@
 # newrepo
-coding a script but every character I type I have to commit before typing the next character(I already failed)
+coding a script but every 3 characters I type I have to commit before typing the next characters(I already failed)
